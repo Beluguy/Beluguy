@@ -3,7 +3,7 @@
 - ⚡ I enjoy tinkering with electronics and computers
 - 😃 I like to fly drones and play table tennis 
 - 🏢 I am currently look for internship for summer 2023
-### I invite you all to check out my website at [marcusc.me](https://marcusc.me/) for projects showcase and more!
+### I invite you to visit my website at [marcusc.me](https://marcusc.me/) for projects showcase and more!
 
 
 <!--
