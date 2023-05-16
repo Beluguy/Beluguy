@@ -1,8 +1,8 @@
 ## Hello there ,  I am Marcus 👋
-- 🏫 I’m currently a 2nd year Electrical Engineering student at [The University of British Columbia](https://www.ubc.ca/) 
+- 🏫 I’m entering my 3rd year of Electrical Engineering program at [The University of British Columbia](https://www.ubc.ca/) 
 - ⚡ I enjoy tinkering with electronics and computers
-- 😃 I like to fly drones and play table tennis 
-- 🏢 I am currently look for internship for summer 2023
+- 😃 I like to fly FPV drones and play table tennis 
+- 🏢 I am currently look for internship for September 2023
 ### I invite you to visit my website at [marcusc.me](https://marcusc.me/) for projects showcase and more!
 
 
