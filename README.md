@@ -1,8 +1,9 @@
-## Hello there ,  I am Marcus 👋
-- 🏫 I’m entering my 3rd year of Electrical Engineering program at [The University of British Columbia](https://www.ubc.ca/) 
+## Hello there,  I am Marcus 👋
+- 🏫 I am a 3rd year Electrical Engineering student at [The University of British Columbia](https://www.ubc.ca/) 
 - ⚡ I enjoy tinkering with electronics and computers
 - 😃 I like to build & fly FPV drones and play table tennis 
 - 🏢 I am currently look for internship for September 2023
+- 📫 You can contact me at hello@marcusc.me
 ### I invite you to visit my website at [marcusc.me](https://marcusc.me/) for projects showcase and more!
 
 
