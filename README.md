@@ -1,8 +1,9 @@
 ## Hello there,  I am Marcus 👋
-- 🏫 I am a 3rd year Electrical Engineering student at [The University of British Columbia](https://www.ubc.ca/) 
+- 🏫 I am a 3rd year Electrical Engineering student at [The University of British Columbia](https://www.ubc.ca/)
+- 🏢 I am currently looking for internship for January 2024
 - ⚡ I enjoy tinkering with electronics and computers
+- 💻 I have [CompTIA A+](https://www.comptia.org/certifications/a) and [network+](https://www.comptia.org/certifications/network) certifications
 - 😃 I like to build & fly FPV drones and play table tennis 
-- 🏢 I am currently look for internship for September 2023
 - 📫 You can contact me at hello@marcusc.me
 ### I invite you to visit my website at [marcusc.me](https://marcusc.me/) for projects showcase and more!
 
