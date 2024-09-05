@@ -1,5 +1,6 @@
 ## Hello there,  I am Marcus 👋
-- 🏫 I am a 3rd year Electrical Engineering student at [The University of British Columbia](https://www.ubc.ca/), and a Package Layout Design intern at [Tenstorrent](https://tenstorrent.com/)
+- 🏫 I am a 3rd year Electrical Engineering student at [The University of British Columbia](https://www.ubc.ca/), and the COTS (Commercial-off-the-shelf) Avionics Hardware Team Lead at [UBC Rocket](https://www.ubcrocket.com/). I have also worked at [Tenstorrent](https://tenstorrent.com/) as a Package Layout Design intern 
+  
 - 🏢 I am currently looking for internship for summer 2025
 - ⚡ I enjoy tinkering with electronics and computers
 - 💻 I have [CompTIA A+](https://www.comptia.org/certifications/a) and [Network+](https://www.comptia.org/certifications/network) certifications
