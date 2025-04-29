@@ -1,12 +1,13 @@
 ## Hello there,  I am Marcus 👋
-- 🏫 I am a 3rd year Electrical Engineering student at [The University of British Columbia](https://www.ubc.ca/), and the COTS Avionics Hardware Lead at [UBC Rocket](https://www.ubcrocket.com/). I have also worked at [Tenstorrent](https://tenstorrent.com/) as a Package Layout Design intern 
+- 🏫 I am a 4th year Electrical Engineering student at [The University of British Columbia](https://www.ubc.ca/), and the Avionics Hardware Lead at [UBC Rocket](https://www.ubcrocket.com/). I have also worked at [Tenstorrent](https://tenstorrent.com/) as a Package Layout Design intern 
   
-- 🏢 I am currently looking for internship for January 2026
-- ⚡ I enjoy tinkering with electronics and computers
-- 💻 I have [CompTIA A+](https://www.comptia.org/certifications/a) and [Network+](https://www.comptia.org/certifications/network) certifications
+- 🏢 I am currently looking for an internship for the Summer of 2026
+- ⚡ I am passionate about electronics and computers
 - 😃 I like to build & fly FPV drones and play table tennis 
+- 🎥 I enjoy watching Sci-fi movies
+- 💻 I have [CompTIA A+](https://www.comptia.org/certifications/a) and [Network+](https://www.comptia.org/certifications/network) certifications
 - 📫 You can contact me at hello@marcusc.me
-### I invite you to visit my website at [marcusc.me](https://marcusc.me/) for projects showcase and more!
+### I invite you to visit my website at [marcusc.me](https://marcusc.me/) for projects showcase and about me!
 
 
 <!--
