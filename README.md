@@ -1,7 +1,6 @@
 ## Hello there,  I am Marcus 👋
 - 🏫 I am a 4th year Electrical Engineering student at [The University of British Columbia](https://www.ubc.ca/), and the Avionics Hardware Lead at [UBC Rocket](https://www.ubcrocket.com/). I have also worked at [Tenstorrent](https://tenstorrent.com/) as a Package Layout Design intern 
   
-- 🏢 I am currently looking for an internship for the Summer of 2026
 - ⚡ I am passionate about electronics and computers
 - 😃 I like to build & fly FPV drones and play table tennis 
 - 🎥 I enjoy watching Sci-fi movies
