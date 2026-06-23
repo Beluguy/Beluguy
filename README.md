@@ -1,5 +1,5 @@
 ## Hello there,  I am Marcus 👋
-- 🏫 I am a 4th year Electrical Engineering student at [The University of British Columbia][1]. I have worked at [Tenstorrent][2] as a package layout design intern (SI/PI & Layout), and UBC's [Power Electronics Systems and Informatics Laboratory][3] as an Undergrad Power Electronics Researcher. I am currently co-leading [UBC Rocket][4]'s (one of UBC's engineering design teams) Avionics Hardware Team and Thrust Vectoring Rocket project.
+- 🏫 I am a 4th year Electrical Engineering student at [The University of British Columbia][1]. I have worked at [Tenstorrent][2] as a package layout design intern (SI/PI & Layout), and UBC's [Power Electronics Systems and Informatics Laboratory][3] as an Undergrad Power Electronics Researcher. I have also co-led [UBC Rocket][4]'s (one of UBC's engineering design teams) Avionics Hardware Team and Thrust Vectoring Rocket project.
   
 - ⚡ I am passionate about electronics and computers
 - 😃 I like to build & fly FPV drones and play table tennis 
